@@ -17,7 +17,7 @@ taking what you mean to say and turning into this type of documentation.
 
 ## Scope of the exercise
 
-In the spirit of Lean and to start our project off using the "pull" approach to develompent we will only focus on the
+In the spirit of Lean and to start our project off using the "pull" approach to development we will only focus on the
 following goal. MyWebClass is a website and we will need a development team that needs to work together in parallel
 meaning that we eventually need to produce various content to support the objectives of the site. In order for this to
 happen we need to create a basic web template that can be found using a search engine, addresses any legal requirements
@@ -132,7 +132,7 @@ At this juncture, the efficacy of the documentation is measured by how well it e
 review this effectiveness before the next iteration of the project.
 # Your  plan should replace the content below
 
-[Project Setup](documentation/theme_1/theme_project_setup.md)
+[km776 Project Setup](documentation/theme_1/kmtheme_project_setup.md)
 
 ## Release Schedule
 
